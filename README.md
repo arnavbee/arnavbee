@@ -1,8 +1,11 @@
 ### Hi there, Arnav here! 👋
 
 🔭 I’m currently working on Web3 Development. 
+
 🌱 I’m currently learning Web3 Infrastructure. 
+
 👯 I’m looking to collaborate on Web3 Projects. 
+
 🤔 I’m looking for help with Web3 Ecosystem.
 
 
