@@ -26,6 +26,14 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Hardhat](https://img.shields.io/badge/-Hardhat-black?style=flat-square&logo=hardhat) 
+![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=flat-square&logo=web3.js) 
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-black?style=flat-square&logo=ethereum) 
+![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum) 
+![Ganache](https://img.shields.io/badge/-Ganache-black?style=flat-square&logo=truffle) 
+![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square) 
+![Truffle](https://img.shields.io/badge/-Truffle-black?style=flat-square&logo=truffle)
+
 
 
 
