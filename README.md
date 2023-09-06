@@ -1,12 +1,7 @@
 ### Hi there, Arnav here! 👋
 
-🔭 I’m currently working on Web3 Development. 
+🔭 I’m currently learning Frontend (React, JS) & Web3 Development (Solidity). 
 
-🌱 I’m currently learning Web3 Infrastructure. 
-
-👯 I’m looking to collaborate on Web3 Projects. 
-
-🤔 I’m looking for help with Web3 Ecosystem.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/arnav-b-singh-5728a4247/)
