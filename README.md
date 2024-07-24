@@ -29,13 +29,6 @@
 ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square) 
 ![Truffle](https://img.shields.io/badge/-Truffle-black?style=flat-square&logo=truffle)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbcse&show_icons=true&locale=en&layout=compact" alt="mbcse" /></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnavbee&show_icons=true&locale=en" alt="mbcse" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnavbee&" alt="mbcse" /></p>
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arnavbee)  
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/mbcse)   -->
 
 
